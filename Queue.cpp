@@ -70,3 +70,8 @@ int main()
 }
 
 // } Driver Code Ends
+
+
+/*
+que 2 : https://practice.geeksforgeeks.org/problems/interleave-the-first-half-of-the-queue-with-second-half/1
+*/
