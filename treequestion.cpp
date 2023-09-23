@@ -9,3 +9,4 @@ https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1?utm_source
 https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1
 https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1
 https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1
+https://practice.geeksforgeeks.org/problems/sum-of-the-longest-bloodline-of-a-tree/1
