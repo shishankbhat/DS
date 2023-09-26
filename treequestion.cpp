@@ -15,3 +15,4 @@ https://practice.geeksforgeeks.org/problems/k-sum-paths/1
 https://practice.geeksforgeeks.org/problems/kth-ancestor-in-a-tree/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article
 https://practice.geeksforgeeks.org/problems/maximum-sum-of-non-adjacent-nodes/1
 https://practice.geeksforgeeks.org/problems/construct-tree-1/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article
+https://practice.geeksforgeeks.org/problems/tree-from-postorder-and-inorder/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article
